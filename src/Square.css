@@ -1,9 +1,0 @@
-div .column {
-    width: 33%;
-    background-color: #777;
-    height: 100%;
-    font-size: 100px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
